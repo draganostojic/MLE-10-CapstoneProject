@@ -33,3 +33,56 @@ https://livingatlas.arcgis.com/en/browse/?q=dlpk%20detection#d=2&q=dlpk%20detect
 
 
 
+2) Data sets
+
+
+https://pytorch.org/vision/stable/datasets.html
+
+https://www.cityscapes-dataset.com/dataset-overview/
+
+https://pytorch.org/vision/stable/generated/torchvision.datasets.Cityscapes.html#torchvision.datasets.Cityscapes
+
+3) Platform
+
+https://coral.ai/docs/edgetpu/faq/#what-is-the-edge-tpus-processing-speed
+
+
+4) Presentation template
+
+https://docs.google.com/presentation/d/1Hy5Uq0HdDB6HGzTIeiHgkv68GCt3hB0k/edit#slide=id.g133c1f20611_0_49
+
+
+5) Corner detector on OpenCV
+
+Corner detectors
+
+If you think of edges as being lines, then corners are an obvious choice for features as they represent the intersection of two lines. 
+One of the earlier corner detectors was introduced by Harris, and it is still a very effective corner detector that gets used quite a lot: it's reliable and it's fast. 
+There's a tutorial explaining how Harris works on the OpenCV site 
+
+
+https://docs.opencv.org/3.4/dc/d0d/tutorial_py_features_harris.html
+
+
+https://github.com/rajasaad7/object-detection-using-yolo/blob/master/detect.py
+
+https://www.reddit.com/r/computervision/comments/40nxxo/how_can_i_detect_whiteboards/
+
+Transfer learning from a pre-trained base transformer NLP model to a classification model on Hugging Face and a quick POC using rapid UI protypting with Gradio
+https://www.youtube.com/watch?v=1v4Ut7umOUw
+
+6) Data set
+
+https://drive.google.com/drive/folders/1XY9Pi75K8dW8AMOSmpwcEVvELn2ykw88
+
+7) Labeling
+
+https://labelstud.io/
+
+
+conda activate label-studio
+label-studio start
+conda deactivate
+
+Go to http://localhost:8080/user/login/
+
